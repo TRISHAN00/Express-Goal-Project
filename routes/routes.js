@@ -1,7 +1,7 @@
 const router = require("express").Router();
 
 router.get("/", (req, res) => {
-  res.send("Get Goals On F");
+  res.status(200).json({ message: "Get Goals" });
 });
 
 module.exports = router;
