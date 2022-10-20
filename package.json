@@ -7,5 +7,23 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "express-goal-project",
+  "description": "��#\u0000 \u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000-\u0000G\u0000o\u0000a\u0000l\u0000-\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRISHAN00/Express-Goal-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRISHAN00/Express-Goal-Project/issues"
+  },
+  "homepage": "https://github.com/TRISHAN00/Express-Goal-Project#readme"
 }
